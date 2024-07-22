@@ -1,0 +1,64 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.team {
+    background-color:#f8f9fb;
+    color: #1f2328;
+    text-align: center;
+    padding: 50px 0;
+}
+
+
+p {
+    color:#969a9b;
+}
+
+
+.first-P {
+font-style: italic;
+}
+
+
+.team-members{
+    margin: 0 0 0 160px;   
+}
+
+
+.team-member{
+    float: left;
+    width: 30%;
+}
+
+
+.clear{
+    clear: left;
+}
+
+
+.icons{
+    margin: 0 120px;
+    display: inline-block;
+}
+
+
+.icon {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2328;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: white;
+    float: left;
+    margin: 0 10px;
+}
+
+
+.last-p {
+    width: 50%;
+    margin: 20px auto;
+}
